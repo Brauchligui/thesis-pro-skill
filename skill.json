@@ -1,0 +1,19 @@
+{
+  "name": "thesis-pro",
+  "description": "Assistant expert pour la rédaction de thèses professionnelles (Executive MBA, MS, Doctorat). Accompagne de l'idéation à la révision finale avec recherche académique, structuration et aide à la rédaction.",
+  "version": "1.0.0",
+  "author": "Guillaume",
+  "languages": ["fr", "en"],
+  "tags": [
+    "academic",
+    "thesis",
+    "research",
+    "writing",
+    "business-school",
+    "mba",
+    "literature-review"
+  ],
+  "entry_point": "skill.md",
+  "config_file": "config.yaml",
+  "config_template": "config-template.yaml"
+}

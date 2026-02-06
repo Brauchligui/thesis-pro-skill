@@ -1,0 +1,5 @@
+# Personal configuration (contains user data)
+config.yaml
+
+# Generated thesis output
+_thesis-output/

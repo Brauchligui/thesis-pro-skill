@@ -1,0 +1,39 @@
+# Thesis Pro - Configuration Utilisateur
+# Copiez ce fichier vers config.yaml et personnalisez vos préférences
+
+# Informations utilisateur
+user_name: ""
+
+# Langue de communication avec l'assistant
+# Options: "Français", "English", "Bilingue"
+communication_language: "Français"
+
+# Langue de rédaction de la thèse
+# Options: "Français", "English"
+writing_language: "Français"
+
+# Format de citation
+# Options: "Vancouver", "APA", "Chicago", "Harvard"
+citation_style: "Vancouver"
+
+# Type de programme
+# Options: "Executive MBA", "MS/MSc", "Doctorat Professionnel", "Autre"
+program_type: "Executive MBA"
+
+# École/Institution (optionnel - pour normes spécifiques)
+institution: ""
+
+# Méthodologie de recherche préférée
+# Options: "Qualitative", "Quantitative", "Mixte", "À définir"
+methodology: "À définir"
+
+# Dossier de sortie pour les documents générés
+output_folder: "{project-root}/_thesis-output"
+
+# Informations sur la thèse (à remplir au fur et à mesure)
+thesis:
+  working_title: ""
+  research_question: ""
+  field: ""
+  expected_length: ""
+  deadline: ""
