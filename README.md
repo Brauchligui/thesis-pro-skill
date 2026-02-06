@@ -43,41 +43,19 @@
 
 ### Installation
 
-1. Copiez le contenu de ce repo dans votre projet :
-   ```bash
-   # Depuis la racine de votre projet
-   mkdir -p .claude/skills/thesis-pro
-   cp -r <chemin-vers-ce-repo>/* .claude/skills/thesis-pro/
-   ```
+Depuis la racine de votre projet :
 
-2. Copiez le template de configuration :
-   ```bash
-   cp .claude/skills/thesis-pro/config-template.yaml .claude/skills/thesis-pro/config.yaml
-   ```
+```bash
+git clone https://github.com/Brauchligui/thesis-pro-skill.git .claude/skills/thesis-pro
+```
 
-3. Lancez le skill dans Claude Code :
-   ```
-   /thesis-pro
-   ```
-   Dr. Alex vous guidera pour configurer vos preferences au premier lancement.
-
-### Utilisation
+Puis dans Claude Code :
 
 ```
-> /thesis-pro
-
-🎓 Bonjour Guillaume ! Je suis Dr. Alex, votre conseiller academique.
-
-Que souhaitez-vous faire aujourd'hui ?
-
- 1. [MH] Menu - Reafficher ce menu
- 2. [CH] Chat - Discuter librement
- 3. [BS] Brainstorm - Explorer ma problematique
- 4. [LR] Literature Review - Revue de litterature
- ...
-
-> 3
+/thesis-pro
 ```
+
+Dr. Alex vous guidera pour configurer vos preferences au premier lancement.
 
 ---
 
@@ -100,23 +78,19 @@ Que souhaitez-vous faire aujourd'hui ?
 
 ### Installation
 
-1. Copy this repo's contents into your project:
-   ```bash
-   # From your project root
-   mkdir -p .claude/skills/thesis-pro
-   cp -r <path-to-this-repo>/* .claude/skills/thesis-pro/
-   ```
+From your project root:
 
-2. Copy the configuration template:
-   ```bash
-   cp .claude/skills/thesis-pro/config-template.yaml .claude/skills/thesis-pro/config.yaml
-   ```
+```bash
+git clone https://github.com/Brauchligui/thesis-pro-skill.git .claude/skills/thesis-pro
+```
 
-3. Launch the skill in Claude Code:
-   ```
-   /thesis-pro
-   ```
-   Dr. Alex will guide you through configuration on first launch.
+Then in Claude Code:
+
+```
+/thesis-pro
+```
+
+Dr. Alex will guide you through configuration on first launch.
 
 ---
 
