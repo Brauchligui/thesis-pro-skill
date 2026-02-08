@@ -9,10 +9,10 @@ Transformer le texte en appliquant les corrections identifiées au diagnostic, e
 
 > **Règle d'or** : Un texte humanisé doit donner l'impression que l'auteur l'a écrit d'une traite, un dimanche matin avec son café, pas qu'un algorithme l'a optimisé.
 
-1. **Conserver le fond** — Le sens, les arguments et les références ne changent JAMAIS
-2. **Transformer la forme** — Syntaxe, rythme, transitions, ton
-3. **Respecter le profil** — Chaque modification doit rapprocher le texte du voice profile
-4. **Doser l'imperfection** — Un vrai humain n'écrit pas parfaitement ; les légères aspérités sont un signe d'authenticité
+1. **Conserver le fond** : le sens, les arguments et les références ne changent JAMAIS
+2. **Transformer la forme** : syntaxe, rythme, transitions, ton
+3. **Respecter le profil** : chaque modification doit rapprocher le texte du voice profile
+4. **Doser l'imperfection** : un vrai humain n'écrit pas parfaitement ; les légères aspérités sont un signe d'authenticité
 
 ### Techniques d'humanisation
 
@@ -21,7 +21,8 @@ Appliquez ces techniques dans l'ordre, en fonction du diagnostic (étape 2) :
 #### A. Casser la monotonie syntaxique
 - **Varier les longueurs** : alterner phrases courtes (5-10 mots) et développées (25-35 mots)
 - **Varier les structures** : commencer certaines phrases par un complément, une subordonnée, un adverbe
-- **Insérer des incises** : parenthèses, tirets longs, apartés — comme le ferait l'auteur selon son profil
+- **Insérer des incises** : parenthèses, virgules d'encadrement, apartés, comme le ferait l'auteur selon son profil
+- **ÉVITER les tirets cadratins (—)** : c'est un marqueur IA très connu. Préférer les virgules, deux-points, parenthèses ou points de suspension
 - **Fragmenter occasionnellement** : une phrase nominale isolée pour l'impact. Comme ça.
 
 #### B. Remplacer les transitions mécaniques
@@ -69,7 +70,7 @@ Selon le choix de l'étape 1 :
 #### E. Ajouter des micro-imperfections naturelles
 Subtilement, sans compromettre la qualité :
 - Une phrase légèrement plus longue que nécessaire (comme quand on développe sa pensée en écrivant)
-- Une reformulation mid-phrase avec un tiret ("la question — ou plutôt le dilemme —")
+- Une reformulation mid-phrase ("la question, ou plutôt le dilemme,")
 - Un connecteur oral occasionnel ("Or", "Sauf que", "Reste que")
 - Une parenthèse qui ajoute une nuance personnelle
 
@@ -77,7 +78,7 @@ Subtilement, sans compromettre la qualité :
 
 1. **Premier passage** : Traitez le texte paragraphe par paragraphe
 2. **Deuxième passage** : Relisez l'ensemble pour la fluidité et la cohérence globale
-3. **Vérification croisée** : Comparez avec le profil de voix — est-ce que ça "sonne" comme l'auteur ?
+3. **Vérification croisée** : Comparez avec le profil de voix. Est-ce que ça "sonne" comme l'auteur ?
 
 ### Présentation du résultat
 Présentez le texte humanisé **dans son intégralité**, sans annotations ni commentaires intercalés. Le texte doit être prêt à l'emploi.

@@ -6,7 +6,7 @@ Vérifier que le texte humanisé ne contient plus de patterns détectables par l
 ## Instructions pour l'agent
 
 ### Contexte important
-> Les détecteurs IA ne sont pas fiables à 100% — ils produisent des faux positifs et des faux négatifs. L'objectif n'est pas de "tromper" un outil, mais de s'assurer que le texte est **authentiquement humain dans sa forme**, ce qui naturellement le rend indétectable.
+> Les détecteurs IA ne sont pas fiables à 100%. Ils produisent des faux positifs et des faux négatifs. L'objectif n'est pas de "tromper" un outil, mais de s'assurer que le texte est **authentiquement humain dans sa forme**, ce qui naturellement le rend indétectable.
 
 ### 1. Checklist des patterns détectables
 
@@ -32,6 +32,11 @@ Relisez le texte humanisé et vérifiez l'absence des marqueurs suivants :
 Vérifiez l'absence de ces termes/tournures (sauf s'ils sont naturels dans le contexte) :
 - FR : "il convient de", "force est de constater", "il est primordial", "de manière significative", "dans ce contexte", "il est à noter que"
 - EN (si sections bilingues) : "delve", "leverage", "foster", "comprehensive", "landscape", "navigate", "crucial", "moreover", "furthermore"
+
+#### Marqueurs typographiques et stylistiques IA
+- [ ] **Tirets cadratins (—)** : compter les occurrences. Plus de 2 par page est suspect. Remplacer par des virgules, deux-points, parenthèses ou points de suspension
+- [ ] **Paires adverbe+adjectif en série** : 3+ paires alignées du type "étrangement X, fondamentalement Y, profondément Z" est un pattern IA flagrant
+- [ ] **Listes de 3 systématiques** : vérifier que le texte ne retombe pas dans les triades à chaque énumération
 
 #### Cohérence humaine
 - [ ] Le texte contient-il au moins une marque personnelle par page ?

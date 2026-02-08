@@ -18,6 +18,8 @@ Examinez le texte pour chacun de ces patterns. Pour chaque catégorie, attribuez
 - [ ] **Hedging mécanique** : "Il semble que", "On pourrait argumenter que", "Il est à noter que"
 - [ ] **Adverbes de remplissage** : "fondamentalement", "essentiellement", "indéniablement", "incontestablement"
 - [ ] **Vocabulaire LLM signature** : "crucial", "landscape" (paysage), "delve", "navigate", "foster", "leverage", "comprehensive"
+- [ ] **Tirets cadratins (—) excessifs** : usage répété du tiret long pour les incises, très courant dans les textes générés par IA
+- [ ] **Paires adverbe+adjectif en série** : alignement de 3+ paires du type "fondamentalement X, profondément Y, délicieusement Z"
 
 #### C. Ton et posture
 - [ ] **Neutralité excessive** : aucune prise de position, tout est nuancé de manière mécanique
