@@ -34,7 +34,9 @@ Vérifiez l'absence de ces termes/tournures (sauf s'ils sont naturels dans le co
 - EN (si sections bilingues) : "delve", "leverage", "foster", "comprehensive", "landscape", "navigate", "crucial", "moreover", "furthermore"
 
 #### Marqueurs typographiques et stylistiques IA
-- [ ] **Tirets cadratins (—)** : compter les occurrences. Plus de 2 par page est suspect. Remplacer par des virgules, deux-points, parenthèses ou points de suspension
+- [ ] **Tirets cadratins (—)** : compter les occurrences.
+  - **En français** : AUCUN tiret cadratin en incise n'est normal. Le français utilise les virgules, parenthèses, deux-points ou points de suspension. Le tiret cadratin est réservé aux dialogues. Tout usage en incise est un anglicisme typographique hérité de l'entraînement LLM sur du texte anglais. Remplacer systématiquement.
+  - **En anglais** : l'em-dash est un outil naturel de la prose. Seule la surutilisation est suspecte (plus de 5 par page). Varier avec des virgules ou parenthèses pour ne pas créer de pattern répétitif
 - [ ] **Paires adverbe+adjectif en série** : 3+ paires alignées du type "étrangement X, fondamentalement Y, profondément Z" est un pattern IA flagrant
 - [ ] **Listes de 3 systématiques** : vérifier que le texte ne retombe pas dans les triades à chaque énumération
 

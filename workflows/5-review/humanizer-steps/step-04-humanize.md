@@ -22,7 +22,7 @@ Appliquez ces techniques dans l'ordre, en fonction du diagnostic (étape 2) :
 - **Varier les longueurs** : alterner phrases courtes (5-10 mots) et développées (25-35 mots)
 - **Varier les structures** : commencer certaines phrases par un complément, une subordonnée, un adverbe
 - **Insérer des incises** : parenthèses, virgules d'encadrement, apartés, comme le ferait l'auteur selon son profil
-- **ÉVITER les tirets cadratins (—)** : c'est un marqueur IA très connu. Préférer les virgules, deux-points, parenthèses ou points de suspension
+- **ÉVITER les tirets cadratins (—)** : c'est un marqueur IA très connu. **En français** : ne JAMAIS utiliser de tiret cadratin en incise, c'est un anglicisme typographique absent de la prose française naturelle (réservé aux dialogues). Utiliser les virgules, deux-points, parenthèses ou points de suspension. **En anglais** : usage modéré acceptable (max 2-3 par page), mais varier avec d'autres ponctuations
 - **Fragmenter occasionnellement** : une phrase nominale isolée pour l'impact. Comme ça.
 
 #### B. Remplacer les transitions mécaniques

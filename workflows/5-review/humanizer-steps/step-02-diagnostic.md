@@ -18,7 +18,7 @@ Examinez le texte pour chacun de ces patterns. Pour chaque catégorie, attribuez
 - [ ] **Hedging mécanique** : "Il semble que", "On pourrait argumenter que", "Il est à noter que"
 - [ ] **Adverbes de remplissage** : "fondamentalement", "essentiellement", "indéniablement", "incontestablement"
 - [ ] **Vocabulaire LLM signature** : "crucial", "landscape" (paysage), "delve", "navigate", "foster", "leverage", "comprehensive"
-- [ ] **Tirets cadratins (—) excessifs** : usage répété du tiret long pour les incises, très courant dans les textes générés par IA
+- [ ] **Tirets cadratins (—) excessifs** : usage répété du tiret long pour les incises, très courant dans les textes générés par IA. **En français** : le tiret cadratin est quasi inexistant en prose courante (réservé aux dialogues). Son usage pour des incises est un anglicisme typographique transposé par les LLM entraînés sur du texte anglais. Tout tiret cadratin hors dialogue est suspect. **En anglais** : l'em-dash est un outil courant et légitime. Seule la surutilisation (5+ par page) est un marqueur IA
 - [ ] **Paires adverbe+adjectif en série** : alignement de 3+ paires du type "fondamentalement X, profondément Y, délicieusement Z"
 
 #### C. Ton et posture
