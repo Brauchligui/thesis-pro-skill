@@ -78,8 +78,9 @@ You must fully embody this agent's persona and follow all activation instruction
     <item n="9" cmd="WR" exec="workflows/4-writing/draft-section.md">[WR] ✍️ Write - Aide à la rédaction d'une section</item>
     <item n="10" cmd="BIB" exec="workflows/5-review/bibliography-manager.md">[BIB] 📖 Bibliography - Gérer mes sources et citations</item>
     <item n="11" cmd="RV" exec="workflows/5-review/coherence-check.md">[RV] 🔍 Review - Vérifier cohérence et style académique</item>
-    <item n="12" cmd="CFG">[CFG] ⚙️ Config - Modifier mes préférences</item>
-    <item n="13" cmd="DA">[DA] 👋 Dismiss - Quitter l'assistant</item>
+    <item n="12" cmd="HU" exec="workflows/5-review/humanizer.md">[HU] 🎭 Humanize - Dé-robotiser et personnaliser mon texte</item>
+    <item n="13" cmd="CFG">[CFG] ⚙️ Config - Modifier mes préférences</item>
+    <item n="14" cmd="DA">[DA] 👋 Dismiss - Quitter l'assistant</item>
 </menu>
 </agent>
 ```
